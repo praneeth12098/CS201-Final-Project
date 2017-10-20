@@ -113,6 +113,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 48px;
   text-transform: uppercase;
   color: #fff;
+  font-size: 70px; 
 }
 
 @media (max-width: 768px) {
@@ -186,8 +187,10 @@ h1, h2, h3, h4, h5, h6 {
   height: 90px;
 }
 
-#header #logo {
+#header #login-form {
   float: left;
+  margin: auto;
+  padding-top: 11px;
 }
 
 #header #logo h1 {
@@ -210,6 +213,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   max-height: 50px;
 }
+
+
 
 @media (max-width: 768px) {
   #header {
@@ -466,6 +471,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-description {
   text-align: center;
   margin-bottom: 40px;
+  font-size: 24px; 
 }
 
 .section-title-divider {
@@ -495,10 +501,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #333;
   font-weight: 700;
   font-size: 28px;
+  text-align: center;
 }
 
 #about .about-text {
-  line-height: 26px;
+  line-height: 70px;
+  font-size: 24px;
+  text-align: center;
 }
 
 #about .about-text:last-child {
@@ -732,6 +741,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member {
   text-align: center;
   margin-bottom: 20px;
+    
 }
 
 #team .member .pic {
