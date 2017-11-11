@@ -853,7 +853,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
 
   
-  border: 2px solid #03C4EB;
+  
   
 }
 
@@ -863,7 +863,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #signup .form-box .active {
     background: #03C4EB;
+    
+}
+
+#signup .form-box .active a {
     color: #fff;
+}
+
+#signup input.btn-signup {
+    background-color: #03C4EB;
+    width: 20%;
+    float: left;
+    border: none;
+    color: #fff;
+    
+}
+
+.tab-content > div:last-child {
+  display: none;
 }
 
 
