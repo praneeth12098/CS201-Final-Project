@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="tulingzh_CSCI201L_FP">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="tulingzh_CSCI201L_FP"/>
+        <property name="java-output-path" value="/tulingzh_CSCI201L_FP/build/classes"/>
+    </wb-module>
+</project-modules>
