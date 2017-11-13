@@ -36,7 +36,7 @@
     <button type="button" name="send" onclick="sendEmail()">Click to connect!</button>
     <a href="#" onclick="customize()">Or customize your email!</a>
     <br/><br/><br/>
-    <textarea name="customizecontent" style="display:none;"></textarea>
+    <textarea id="textarea" name="customizecontent" style="display:none;"></textarea>
     
 	</form>
 		
